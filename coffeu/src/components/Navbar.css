@@ -7,11 +7,13 @@
     justify-content: space-evenly;
     padding: 5px;
     display: flex;
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
   }
   
   .buttons-navbar{
+    font-size: 1em ;
+    font-weight: 600;
     cursor: pointer;
     font-family: 'Poppins', sans-serif;
     background: none;
