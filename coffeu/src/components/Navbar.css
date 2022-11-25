@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #ac7c3e;
+  }
+
+  .navbar-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .buttons-navbar{
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    background: none;
+    border: none;
+  }
+
+  .logo{
+    display: flex;
+  }
+
+  .logo-img{
+  width: 20px;
+  height: 20px;
+  align-self: center;
+  }

@@ -1,0 +1,16 @@
+.home_container{
+    margin: 3em;
+}
+
+.home_container h1{
+    text-align: center;
+}
+
+.card-container{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
