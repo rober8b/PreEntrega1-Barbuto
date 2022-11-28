@@ -1,8 +1,8 @@
 import "./App.css"
 import React from "react";
-import Navbar from "./components/Navbar"
-import ItemListContainer from "./components/ItemListContainer"
-import Footer from "./components/footer"
+import Navbar from "./components/NavBar/Navbar"
+import ItemListContainer from "./components/ItemList/ItemListContainer"
+import Footer from "./components/Footer/footer"
 
 function App() {
   return (
